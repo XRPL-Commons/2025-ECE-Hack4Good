@@ -142,7 +142,7 @@ Password: ``@/RLQ&cpCMkf+E``
 | **Official Docs** | Main reference for everything XRPL | [XRPL Documentation](https://xrpl.org) |
 | **Learn the Basics** | Interactive platform to explore XRPL fundamentals | [XRPL Learn Platform](https://learn.xrpl.org) |
 | **Official Docs** | Main reference for everything XRPL | [XRPL Documentation](https://xrpl.org) |
-| **Ripple USD Stablecoin Docs** | Reference and documentation of Ripple USD Stablecoin | [Ripple USD Stablecoin Docs](https://docs.ripple.com/stablecoin/) |
+| **Ripple USD Stablecoin Docs** | Reference and documentation of Ripple USD Stablecoin | [Ripple USD Stablecoin Docs](https://docs.ripple.com/products/stablecoin) |
 | **XRPL Explorer** | Explore accounts, transactions, and ledgers on XRPL | [XRPL Explorer](https://livenet.xrpl.org)  [XRPLWin Explorer](https://xrplwin.com/)|
 | **Wallets, Escrows, Tickets** | Practical tutorials on creating wallets, trustlines, escrows and tickets | [Florian Uzio Guides](https://github.com/florent-uzio/xrpl-commons-tutorials) |
 
