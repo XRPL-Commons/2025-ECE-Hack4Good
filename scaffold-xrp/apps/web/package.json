@@ -11,11 +11,15 @@
   "dependencies": {
     "buffer": "^6.0.3",
     "crypto-browserify": "^3.12.1",
+    "deck.gl": "^9.2.2",
     "events": "^3.3.0",
+    "h3-js": "^4.3.0",
+    "maplibre-gl": "^5.13.0",
     "next": "14.0.4",
     "process": "^0.11.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-map-gl": "^8.1.0",
     "stream-browserify": "^3.0.0",
     "xrpl": "^3.0.0",
     "xrpl-connect": "^0.4.0"
